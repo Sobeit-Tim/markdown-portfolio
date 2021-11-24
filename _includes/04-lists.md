@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. Animals
+  1. dog
+  2. cat
+  3. moooooooooonkey
+2. Game
+  * lost
+  * ark
+  * zz
